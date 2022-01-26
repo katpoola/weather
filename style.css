@@ -1,0 +1,12 @@
+body {
+	background: skyblue;
+	text-align: center;
+	color: whitesmoke;
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 40px;
+}
+
+#weather {
+	margin-top: 300px;
+}
